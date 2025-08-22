@@ -4,8 +4,10 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
 
 ## 📌 Descripción del Proyecto
-Desarrollé un modelo de analisis robusto a partir de un dataset complejo y desestructurado, aplicando técnicas avanzadas de **EDA (Análisis Exploratorio de Datos)** y **ETL (Extracción, Transformación y Carga)** . 
-El resultado final fue un dashboard generado en **Power BI** que permite obtener información rapido sobre el estado del negocio y generar insights accionables para la toma de decisiones objetivas en el ámbito empresarial.
+Desarrollé un modelo de analisis robusto a partir de un dataset complejo y desestructurado, aplicando técnicas avanzadas de **EDA (Análisis Exploratorio de Datos)** y **ETL (Extracción, Transformación y Carga)** . <br>
+Se trabajo con las KPIS más relevantes y se hizo enfasis en la distribución de las ganancias de las secciones del local y en el margen de aporte de cada una de ellos. <br>
+Por otro lado se abordo el analisis de la venta Retail y Venta REMA, para hacer graficos comparativos con el fin de obtener datos relevantes, para potenciar el canal de venta que este por debajo del presupuesto.<br>
+El resultado final fue un dashboard generado en **Power BI** que permite obtener información rapida sobre el estado del negocio y generar insights accionables para la toma de decisiones objetivas en el ámbito empresarial.
 
 <p align="center">
   <a href="https://postimg.cc/9zytcfVX" target="_blank">
